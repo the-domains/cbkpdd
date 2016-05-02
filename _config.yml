@@ -1,0 +1,28 @@
+name: 'Coldwell Banker Kennon, Parker, Duncan & Davis'
+favicon: null
+layout_spectrum: 0.8384172911755741
+typography_spectrum: 0.6258613257668912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.38715651887468994
+  lightness: 0.4145027210470289
+  saturation: 0.35663010855205357
+  rhythmicContrast: 0.12441140064038336
+purpose: []
